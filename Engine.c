@@ -8,6 +8,7 @@
 void Selecao(FILE* file){
 
     int qtd_Element_Partitions = 0;
+    
     bool end = true;
 
     printf("======================================= Arquivo de Funcionarios =======================================\n\n");
